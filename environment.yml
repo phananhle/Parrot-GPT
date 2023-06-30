@@ -1,0 +1,6 @@
+name: parrot-gpt
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
