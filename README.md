@@ -37,7 +37,7 @@ To run the notebook, please follow these steps:
 
 The GPT-Neo model used in this repository is the EleutherAI/gpt-neo-2.7B version, which consists of 2.7 billion parameters. If you prefer a lighter model, you can also use the EleutherAI/gpt-neo-1.3B version, which has 1.3 billion parameters. The choice of model depends on the available GPU VRAM, as the 2.7B model requires approximately 13 GB, while the 1.3B model requires approximately 7.5 GB.
 
-## Special Thanks
+## Acknowledgments
 I would like to extend my special thanks to the following resources:
 
 - The YouTube video [Deep Dive into GPT-3 and GPT-Neo](https://www.youtube.com/watch?v=d_ypajqmwcU&t=7s) provided a comprehensive overview and detailed explanations of GPT-3 and GPT-Neo, which greatly enhanced our understanding of these models.
@@ -46,16 +46,14 @@ I would like to extend my special thanks to the following resources:
 
 - [gpt-neo](https://github.com/EleutherAI/gpt-neo) GitHub repository, developed by the team at [EleutherAI](https://github.com/EleutherAI). The groundbreaking work done by this project was instrumental in advancing the field of language models and served as a significant inspiration for our own endeavors.
 
-## License
-
-This project is licensed under the MIT License.
-
-Feel free to explore, modify, and use the code as per the terms of the license.
-
-Acknowledgments
 The GPT-Neo model is developed by EleutherAI.
 This project utilizes the Hugging Face library for easy access to Transformer models.
 Special thanks to the developers and contributors of PyTorch and Jupyter Notebook for their invaluable tools.
 Disclaimer
 Please note that the generated text may not always provide accurate or reliable information. The model's responses are based on patterns learned from large amounts of text data and should be used with caution. Use the generated output for informational purposes only and exercise critical thinking when interpreting the results.
 
+## License
+
+This project is licensed under the MIT License.
+
+Feel free to explore, modify, and use the code as per the terms of the license.
