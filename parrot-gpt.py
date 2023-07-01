@@ -1,10 +1,3 @@
-# Install PyTorch
-!conda install pytorch torchvision torchaudio -c pytorch -c nvidia -c apple -y
-
-# Install HuggingFace Transformers
-!conda install -c huggingface transformers -y
-
-# Import necessary packages
 from transformers import GPTNeoForCausalLM, GPT2Tokenizer
 import torch
 
