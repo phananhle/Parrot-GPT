@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Parrot-GPT
 
 This repository contains a Jupyter Notebook that allows users to locally run a ChatGPT model on a Mac M1. The notebook utilizes the GPT-Neo model from Hugging Face, specifically the 2.7 billion parameter version. The model can be run on a GPU if available, but it is not mandatory.
