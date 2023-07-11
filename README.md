@@ -1,8 +1,6 @@
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
 # Parrot-GPT
 
 This repository contains a Jupyter Notebook that allows users to locally run a GPT model on a Mac M1. The notebook utilizes the GPT-Neo model from Hugging Face, specifically the 2.7 billion parameter version. The model can be run on a GPU if available, but it is not mandatory.
